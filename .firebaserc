@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angular-fire-auth-ea4c3": {
+      "hosting": {
+        "Angular-Fire-Auth": [
+          "angular-fire-auth-ea4c3"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angular-fire-auth-ea4c3"
+  }
+}
